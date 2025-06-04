@@ -1,0 +1,22 @@
+1. Partilha de ficheiros - porque permite que os utilizadores da rede acedam as pastas 
+e ficheiros , armazenados num servidor ou computador e permite defininir permissões 
+para ler mensagens e escrever modicações.
+
+- Atenticação de utilizadores - porque vai garante que apenas os utilizadores outorizados 
+acedam á rede e aos seus recursos, cada utilizador irá ter a sua password e o deu nome 
+de utilizador.
+
+- Partilha de Impressora - prque ele identifica quem vai ter acesso á impresora.
+
+2. vai acontecer que ele não vai conseguir aceder sem ter permissão , porque 
+só os administradores têm acesso á todos os dados.
+
+3. A sua função é garante que apenas os utilizadores autorizados acedam á
+rede e aos seus recursos.
+
+4. É controlada porque os dados não devem ser partilhado com as pessoas 
+  que não são  autorizados. O Papel  do SON é identificar quem vai ter 
+   acesso á essa impressora.
+
+5. O SON pose ajudar na monitorização e Segurança, porque o SON vai monitoriza
+tráfego da rede, deteta falhas e gera alertas em caso de problemas.
